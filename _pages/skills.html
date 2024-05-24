@@ -1,0 +1,252 @@
+---
+layout: archive
+title: ""
+permalink: /skills/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+    .skill-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 20px;
+        gap: 20px;
+    }
+    .skill-section {
+        display: flex;
+        flex-direction: row; /* Header on the side */
+        align-items: flex-start;
+        max-width: 200px;
+        min-height: 200px;
+        flex: 1 1 auto; /* Flex basis set to auto for automatic adjustment based on content */
+        padding: 10px;
+        margin: 10px;
+        background-color: #f8f8f8;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        border-radius: 10px;
+        overflow: hidden; /* Keeps everything neat */
+    }
+    .skill-header {
+        background-color: #f8f8f8;
+        font-size: small;
+        padding: 10px 5px; /* Slightly adjusted padding */
+        writing-mode: vertical-rl;
+        transform: rotate(180deg);
+        text-align: center;
+        border-left: 2px solid deepskyblue;
+        align-self: stretch; /* Makes the header stretch to match the height of the list */
+    }
+    .skill_list {
+        list-style-type: circle;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* Centers items vertically if there's extra space */
+        padding-left: 30px; margin-top: 0;
+    }
+    .skill_list_generator{
+        margin-bottom: 5px;
+        font-size: small;
+        font-family: 'Georgia', serif;
+        text-align: left;
+        max-width: 100%; /* Set max-width to ensure text wrapping */
+        word-wrap: break-word; /* Ensures that words do not overflow their container */
+        
+    }
+</style>
+
+
+
+<div class="skill-container">
+    <div class="skill-section" >
+        <h2 class="skill-header">
+            Lab Skills
+        </h2>
+        <ul class="skill_list">
+          <li class="skill_list_generator">Si-photonic chip characterization</li>
+          <li class="skill_list_generator">Optical setup design and assembly</li>
+          <li class="skill_list_generator">Imaging systems</li>
+          <li class="skill_list_generator">Optical fibers</li>
+          <li class="skill_list_generator">Tunable lasers</li>
+          <li class="skill_list_generator">Passive optical elements</li>
+          <li class="skill_list_generator">Spectrum Analyzers/ Interferometers</li>
+          <li class="skill_list_generator">Photodetectors</li>
+          <li class="skill_list_generator">Power meter</li>
+          <li class="skill_list_generator">3D printing</li>
+        </ul>
+    </div>
+    <div class="skill-section" style="max-width:150px">
+        <h2 class="skill-header">
+            Optics Skills
+        </h2>
+        <ul class="skill_list">
+          <li class="skill_list_generator">Mode propagation theory</li>
+          <li class="skill_list_generator">Ray optics</li>
+          <li class="skill_list_generator">Beam optics</li>
+          <li class="skill_list_generator">Adaptive optics</li>
+        </ul>
+    </div>
+    <div class="skill-section">
+        <h2 class="skill-header">
+            Fabrication and Material Characterization
+        </h2>
+        <ul class="skill_list">
+            <li class="skill_list_generator">Atomic Force Microscopy</li>
+            <li class="skill_list_generator">Scanning Electron Microscopy</li>
+            <li class="skill_list_generator">Focused Ion Beam milling</li>
+            <li class="skill_list_generator">e-beam evaporation</li>
+            <li class="skill_list_generator">Ion etching</li>
+            <li class="skill_list_generator">UV lithography</li>
+            <li class="skill_list_generator">SU-8 and PDMS microfabrication</li>
+        </ul>
+    </div>
+    
+    <!-- Programming -->
+    <div class="skill-section">
+        <h2 class="skill-header">
+            Programming
+        </h2>
+        <ul class="skill_list">
+            <li class="skill_list_generator">Python</li>
+            <li class="skill_list_generator">MATLAB</li>
+            <li class="skill_list_generator">NI LabVIEW</li>
+            <li class="skill_list_generator">C/C++</li>
+            <li class="skill_list_generator">C#</li>
+            <li class="skill_list_generator">Bash</li>
+            <li class="skill_list_generator">JMP</li>
+        </ul>
+    </div>
+
+        <!-- Skills2-->
+        <div class="skill-section">
+            <h2 class="skill-header">
+                Python
+            </h2>
+            <ul class="skill_list">
+                <li class="skill_list_generator">Numpy</li>
+                <li class="skill_list_generator">Scipy</li>
+                <li class="skill_list_generator">Pandas</li>
+                <li class="skill_list_generator">Matplotlib</li>
+                <li class="skill_list_generator">Tensorflow</li>
+                <li class="skill_list_generator">Scikit-Learn</li>
+                <li class="skill_list_generator">Scikit-Image</li>
+                <li class="skill_list_generator">HoloViews</li>
+                <li class="skill_list_generator">Socket</li>
+                <li class="skill_list_generator">Concurrent</li>
+                <li class="skill_list_generator">Multiprocessing</li>
+            </ul>
+        </div>
+        <div class="skill-section" >
+            <h2 class="skill-header">
+                Image Processing
+            </h2>
+            <ul class="skill_list">
+                <li class="skill_list_generator">Andor Zyla sCMOS</li>
+                <li class="skill_list_generator">OpenCV/CV2</li>
+                <li class="skill_list_generator">PIL</li>
+                <li class="skill_list_generator">Scikit-Image</li>
+                <li class="skill_list_generator">ImageJ</li>
+                <li class="skill_list_generator">Gwyddion</li>
+            </ul>
+        </div>
+            <!-- skill 3-->
+            <div class="skill-section">
+                <h2 class="skill-header">
+                    Simulation
+                </h2>
+                <ul class="skill_list">
+                    <li class="skill_list_generator">FIMMWAVE/ FIMMPROP</li>
+                    <li class="skill_list_generator">Lumerical</li>
+                    <li class="skill_list_generator">COMSOL</li>
+                    <li class="skill_list_generator">OmniSim</li>
+                    <li class="skill_list_generator">Code V</li>
+                    <li class="skill_list_generator">OSLO (free alternative to Zemax)</li>
+                    
+                    
+                </ul>
+            </div>
+            <!-- skill 4-->
+            <div class="skill-section">
+                <h2 class="skill-header">
+                    Design Tools
+                </h2>
+                <ul class="skill_list">
+                    <li class="skill_list_generator">Fusion 360</li>
+                    <li class="skill_list_generator">SolidWorks</li>
+                </ul>
+            </div>
+     <!-- skill 5-->
+
+    <!-- skill 6-->
+     <div class="skill-section" >
+        <h2 class="skill-header">IDE</h2>
+        <ul class="skill_list">
+          <li class="skill_list_generator">VS Code</li>
+          <li class="skill_list_generator">Jupyter NB/Lab</li>
+          <li class="skill_list_generator">Google Colab</li>
+          <li class="skill_list_generator">Visual Studio</li>
+          <li class="skill_list_generator">Spyder</li>
+        </ul>
+    </div>
+    <div class="skill-section" >
+        <h2 class="skill-header">Graphics/Design</h2>
+        <ul class="skill_list">
+          <li class="skill_list_generator">Adobe Illustrator</li>
+          <li class="skill_list_generator">Adobe Photoshop</li>
+          <li class="skill_list_generator">Inkscape</li>
+          <li class="skill_list_generator">GIMP</li>
+        </ul>
+      </div>
+      
+           <!-- skill 5-->
+     <div class="skill-section" style="max-width:150px">
+        <h2 class="skill-header">
+            Embedded HW
+        </h2>
+        <ul class="skill_list">
+            <li class="skill_list_generator">Raspbery Pi</li>
+            <li class="skill_list_generator">Arduino</li>
+            <li class="skill_list_generator">Ethernet (TCP/IP)</li>
+        </ul>
+    </div>
+    <div class="skill-section">
+        <h2 class="skill-header">
+            Technical Knowledge
+        </h2>
+        <ul class="skill_list">
+            <!-- graduate-->
+            <li class="skill_list_generator">Photonics and Optical fiber</li>
+            <li class="skill_list_generator">Semiconductor Physics</li>
+            <li class="skill_list_generator">Semiconductor Processes</li>
+            <li class="skill_list_generator">Optics and Imaging</li>
+            <li class="skill_list_generator">Biophotonics</li>
+            <!-- undergrad-->
+            <li class="skill_list_generator">Optoelectronics</li>
+            <li class="skill_list_generator">Communications Theory</li>
+            <li class="skill_list_generator">Digital Signal Processing</li>
+            <li class="skill_list_generator">Microwave Engineering</li>
+        </ul>
+    </div>
+
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const colors = [ "purple", "cyan", "magenta","Aquamarine","PaleGreen"]; 
+        const sections = document.querySelectorAll('.skill-header'); // Select all sections
+    
+        sections.forEach(section => {
+            const randomColor = colors[Math.floor(Math.random() * colors.length)]; // Pick a random color from the array
+            section.style.borderColor = randomColor; // Apply the random color as border color
+        });
+    });
+    </script>
+    
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
