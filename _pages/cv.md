@@ -19,10 +19,16 @@ Please download the full and latest CV from [here](/files/CV_master.pdf).
 Work Experience
 ======
 
+
+- <span style="font-size: 16px;">**Design Enginner**, HAMR Integration, TDK Headway Technologies</span>  
+  <span style="font-size: 14px;">Milpitas, California</span>  
+  <span style="font-size: 14px;">October 2024 - present</span>    
+  <span style="font-size: 14px;">*For more details about our work, please visit Headway Technologies' [webpage](https://www.tdk.com/en/featured_stories/entry_025.html).*</span>
+
 - <span style="font-size: 16px;">**Graduate Student Researcher**, University of California, Santa Cruz, ECE Department</span>  
   <span style="font-size: 14px;">Santa Cruz, California</span>  
-  <span style="font-size: 14px;">September 2017 - present</span>  
-  <span style="font-size: 14px;">For work details, please check my [Research page](research.md).</span>  
+  <span style="font-size: 14px;">September 2017 - September 2024</span>  
+  <span style="font-size: 14px;">For details, please check my [Research page](research.md).</span>  
   <span style="font-size: 14px;">*For further details about our work, please visit my PhD lab's [webpage](https://photon.soe.ucsc.edu).*</span>
 
 - <span style="font-size: 16px;">**Lecturer**, Dept. of EEE, City University, Bangladesh</span>  
@@ -41,14 +47,11 @@ Work Experience
 Education
 ======
 
-- <span style="color: SteelBlue; font-size: 16px;">**University of California, Santa Cruz**</span> 
-  <br>
+- <span style="color: SteelBlue; font-size: 16px;">**University of California, Santa Cruz**</span><br>
   <span style="font-size: 14px;">Ph.D., Electrical Engineering</span><br>
   <span style="font-size: 14px;">Santa Cruz, California</span><br> 
   <span style="font-size: 14px;">Research Area: Photonic spectrometer & optofluidic biosensor</span><br>
-  <span style="font-size: 14px;">September 2017 - present</span><br>
-  <span style="font-size: 14px;">Advisor: Prof. Holger Schmidt</span><br>
-  <span style="font-size: 14px;">**Expected Graduation: August 2024**</span><br>
+  <span style="font-size: 14px;">September 2017 - September 2024</span><br>
 
 - <span style="color: SteelBlue; font-size: 16px;">**University of California, Santa Cruz**</span>
   <br>
