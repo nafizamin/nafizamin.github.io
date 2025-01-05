@@ -12,29 +12,37 @@ author_profile: true
 <h4 style="text-align:left;font-family:'Arial';font-size:28px"> Journal Articles </h4>
 
 1. *Multi-mode interference waveguide chip-scale spectrometer*  
-   **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Adams, Tyler J; Dixon, Porter B; Weber, Zoe; DeMartino, Matthew; Bundy, Kevin; Hawkins, Aaron R; Schmidt, Holger  (submitted)
+   **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Adams, Tyler J; Dixon, Porter B; Weber, Zoe; DeMartino, Matthew; Bundy, Kevin; Hawkins, Aaron R; Schmidt, Holger; 2024
+   APL Photonics 9 (10), 100802
+   DOI: [10.1063/5.0222100](https://doi.org/10.1063/5.0222100)
 
-2. *Free-Space Excitation of Optofluidic Devices for Pattern-Based Single Particle Detection*  
+2. *Multi-mode interference waveguide spectrometer with optimized performance*
+   **Amin, Md Nafiz**; Ramollari, Helio; Yuzvinsky, Thomas D; Weber, Zoe; Adams, Tyler J; Dixon, Porter B; 
+   Bundy, Kevin; Hawkins, Aaron R, Schmidt, Holger; 2024
+   Optics Express 32 (26), 45873-45883
+   DOI: [10.1364/OE.541996](https://doi.org/10.1364/OE.541996)
+
+3. *Free-Space Excitation of Optofluidic Devices for Pattern-Based Single Particle Detection*  
    **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Hamblin, Matt; Hawkins, Aaron R; Schmidt, Holger; 2021  
    IEEE Photonics Technology Letters 33 (16), 884-887  
    DOI: [10.1109/lpt.2021.3069673](https://doi.org/10.1109/lpt.2021.3069673)
 
-3. *FPGA Integrated Optofluidic Biosensor for Real-Time Single Biomarker Analysis*  
+4. *FPGA Integrated Optofluidic Biosensor for Real-Time Single Biomarker Analysis*  
    Sampad, Mohammad Julker Neyen; **Amin, Md Nafiz**; Hawkins, Aaron R; Schmidt, Holger; 2021  
    IEEE Photonics Journal 14 (1), 1-6  
    DOI: [10.1109/jphot.2021.3127484](https://doi.org/10.1109/jphot.2021.3127484)
 
-4. *Performance Comparison of Flow-Through Optofluidic Biosensor Designs*  
+5. *Performance Comparison of Flow-Through Optofluidic Biosensor Designs*  
    Jr, Joel G Wright; **Amin, Md Nafiz**; Schmidt, Holger; Hawkins, Aaron R; 2021  
    Biosensors 11 (7), 226  
    DOI: [10.3390/bios11070226](https://doi.org/10.3390/bios11070226)
 
-5. *Optofluidic Flow-Through Biosensor Sensitivity–Model and Experiment*  
+6. *Optofluidic Flow-Through Biosensor Sensitivity–Model and Experiment*  
    Wright, Joel G; **Amin, Md Nafiz**; Meena, Gopikrishnan G; Schmidt, Holger; Hawkins, Aaron R; 2021  
    Journal of Lightwave Technology 39 (10), 3330-3340  
    DOI: [10.1109/jlt.2021.3061872](https://doi.org/10.1109/jlt.2021.3061872)
 
-6. *Highly nonlinear polarization-maintaining photonic crystal fiber with nanoscale GaP strips*  
+7. *Highly nonlinear polarization-maintaining photonic crystal fiber with nanoscale GaP strips*  
     **Amin, Md Nafiz**; Faisal, Mohammad; 2016  
     Applied optics 55 (35), 10030-10037  
     DOI: [10.1364/ao.55.010030](https://doi.org/10.1364/ao.55.010030)
