@@ -12,20 +12,19 @@ author_profile: true
 <h4 style="text-align:left;font-family:'Arial';font-size:28px"> Journal Articles </h4>
 
 1. *Multi-mode interference waveguide chip-scale spectrometer*  
-   **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Adams, Tyler J; Dixon, Porter B; Weber, Zoe; DeMartino, Matthew; Bundy, Kevin; Hawkins, Aaron R; Schmidt, Holger; 2024
+    **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Adams, Tyler J; Dixon, Porter B; Weber, Zoe; DeMartino, Matthew; Bundy, Kevin; Hawkins, Aaron R; Schmidt, Holger; 2024
    APL Photonics 9 (10), 100802
    DOI: [10.1063/5.0222100](https://doi.org/10.1063/5.0222100)
 
 2. *Multi-mode interference waveguide spectrometer with optimized performance*
-   **Amin, Md Nafiz**; Ramollari, Helio; Yuzvinsky, Thomas D; Weber, Zoe; Adams, Tyler J; Dixon, Porter B; 
-   Bundy, Kevin; Hawkins, Aaron R, Schmidt, Holger; 2024
-   Optics Express 32 (26), 45873-45883
-   DOI: [10.1364/OE.541996](https://doi.org/10.1364/OE.541996)
+    **Amin, Md Nafiz**; Ramollari, Helio; Yuzvinsky, Thomas D; Weber, Zoe; Adams, Tyler J; Dixon, Porter B; Bundy, Kevin; Hawkins, Aaron R, Schmidt, Holger; 2024
+    Optics Express 32 (26), 45873-45883
+    DOI: [10.1364/OE.541996](https://doi.org/10.1364/OE.541996)
 
 3. *Free-Space Excitation of Optofluidic Devices for Pattern-Based Single Particle Detection*  
-   **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Hamblin, Matt; Hawkins, Aaron R; Schmidt, Holger; 2021  
-   IEEE Photonics Technology Letters 33 (16), 884-887  
-   DOI: [10.1109/lpt.2021.3069673](https://doi.org/10.1109/lpt.2021.3069673)
+    **Amin, Md Nafiz**; Ganjalizadeh, Vahid; Hamblin, Matt; Hawkins, Aaron R; Schmidt, Holger; 2021  
+    IEEE Photonics Technology Letters 33 (16), 884-887  
+    DOI: [10.1109/lpt.2021.3069673](https://doi.org/10.1109/lpt.2021.3069673)
 
 4. *FPGA Integrated Optofluidic Biosensor for Real-Time Single Biomarker Analysis*  
    Sampad, Mohammad Julker Neyen; **Amin, Md Nafiz**; Hawkins, Aaron R; Schmidt, Holger; 2021  
@@ -52,32 +51,32 @@ author_profile: true
 <h4 style="text-align:left;font-family:'Arial';font-size:28px"> Conference Proceedings</h4>
 
 1. *On-chip Imaging Spectrometer using Multi-mode Interference Waveguides*  
-   **Amin, MN**; Ganjalizadeh, V; Adams, T; Boehme, N; Wiltbank, J; Weber, Z; DeMartino, MC; Bundy, K; Hawkins, AR; Schmidt, H; 2023  
-   CLEO, pp. 1-2  
-   DOI: [10.1364/cleo_at.2023.aw3k.4](https://doi.org/10.1364/cleo_at.2023.aw3k.4)
+    **Amin, MN**; Ganjalizadeh, V; Adams, T; Boehme, N; Wiltbank, J; Weber, Z; DeMartino, MC; Bundy, K; Hawkins, AR; Schmidt, H; 2023  
+    CLEO, pp. 1-2  
+    DOI: [10.1364/cleo_at.2023.aw3k.4](https://doi.org/10.1364/cleo_at.2023.aw3k.4)
 
 2. *An astrophotonics platform for Lick Observatory: testing adaptive mode extraction with photonic lanterns* 
-   DeMartino, Matthew C; Bundy, Kevin; Schmidt, Holger; Kupke, Renate; MacDonald, Nick; Gates, Elinor; Rees, Jon; Lynam, Paul; Hinz, Phil; Jensen-Clem, Rebecca; **Amin, Md Nafiz**; Weber, Zoe; 2022  
-   SPIE Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation V, 12188, pp. 1102-1109  
-   DOI: [10.1117/12.2630591](https://doi.org/10.1117/12.2630591)
+    DeMartino, Matthew C; Bundy, Kevin; Schmidt, Holger; Kupke, Renate; MacDonald, Nick; Gates, Elinor; Rees, Jon; Lynam, Paul; Hinz, Phil; Jensen-Clem, Rebecca; **Amin, Md Nafiz**; Weber, Zoe; 2022  
+    SPIE Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation V, 12188, pp. 1102-1109  
+    DOI: [10.1117/12.2630591](https://doi.org/10.1117/12.2630591)
 
 3. *Real-Time Bio Particle Flow Analysis Platform Based on FPGA Integrated Optofluidic ARROW Devices* 
-   Sampad, MJN; **Amin, MN**; Meena, GG; Hawkins, AR; Schmidt, H; 2021  
-   CLEO, AF2Q. 4  
-   DOI: [10.1364/cleo_at.2021.af2q.4](https://doi.org/10.1364/cleo_at.2021.af2q.4)
+    Sampad, MJN; **Amin, MN**; Meena, GG; Hawkins, AR; Schmidt, H; 2021  
+    CLEO, AF2Q. 4  
+    DOI: [10.1364/cleo_at.2021.af2q.4](https://doi.org/10.1364/cleo_at.2021.af2q.4)
 
 4. *Multiplexed single particle sensing in optofluidic sensors using free space excitation* 
-   **Amin, MN**; Ganjalizadeh, V; Hamblin, M; Hawkins, AR; Schmidt, H; 2020  
-   IEEE Photonics Conference, 1-2  
-   DOI: [10.1109/ipc47351.2020.9252341](https://doi.org/10.1109/ipc47351.2020.9252341)
+    **Amin, MN**; Ganjalizadeh, V; Hamblin, M; Hawkins, AR; Schmidt, H; 2020  
+    IEEE Photonics Conference, 1-2  
+    DOI: [10.1109/ipc47351.2020.9252341](https://doi.org/10.1109/ipc47351.2020.9252341)
 
 5. *Free Space Excitation in Optofluidic Devices for Single Particle Detection* 
-   **Amin, MN**; Hamblin, M; Meena, GG; Hawkins, AR; Schmidt, H; 2019  
-   IEEE Photonics Conference, 1-2  
-   DOI: [10.1109/ipcon.2019.8908404](https://doi.org/10.1109/ipcon.2019.8908404)
+    **Amin, MN**; Hamblin, M; Meena, GG; Hawkins, AR; Schmidt, H; 2019  
+    IEEE Photonics Conference, 1-2  
+    DOI: [10.1109/ipcon.2019.8908404](https://doi.org/10.1109/ipcon.2019.8908404)
 
 6. *Ultrahigh birefringent index guiding photonic crystal fibers* 
-    **Amin, Md Nafiz**; Faisal, Mohammad; Rahman, Md Mostafizur; 2016  
+   **Amin, Md Nafiz**; Faisal, Mohammad; Rahman, Md Mostafizur; 2016  
     IEEE Region 10 Conference (TENCON), pp. 2722-2725  
     DOI: [10.1109/tencon.2016.7848534](https://doi.org/10.1109/tencon.2016.7848534)
 
